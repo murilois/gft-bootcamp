@@ -1,4 +1,4 @@
-package poo.exercises.exercise3;
+package poo.exercises.exercise2;
 
 public class Pet {
 
